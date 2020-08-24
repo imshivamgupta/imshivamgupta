@@ -4,6 +4,8 @@
 
 
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#1](https://github.com//imshivamgupta/hopequre-template/issues/1) in [imshivamgupta/hopequre-template](https://github.com//imshivamgupta/hopequre-template)
+<!--END_SECTION:activity-->
 <!--
 **imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
