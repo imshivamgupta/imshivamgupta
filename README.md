@@ -3,7 +3,6 @@
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imshivamgupta_)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/imshivamgupta1)
 [![](https://img.shields.io/badge/Gmail-shivamg8797%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shivamg8797@gmail.com)
-
 [![HitCount](http://hits.dwyl.com/imshivamgupta/hopequre-template.svg)](http://hits.dwyl.com/imshivamgupta/hopequre-template)
 
 ![Introduction](https://github.com/imshivamgupta/imshivamgupta/blob/master/assets/intro.png?raw=true)
