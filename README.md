@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimshivamgupta_)
+[![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imshivamgupta_)
+
 
 <!--START_SECTION:activity-->
 <!--
