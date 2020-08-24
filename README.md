@@ -2,12 +2,14 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imshivamgupta_)
 
+![Introduction](https://github.com/[imshivamgupta]/[imshivamgupta]/blob/[master]/assets/carbon.svg?raw=true)
 
 <!--START_SECTION:activity-->
+
 1. ❗️ Opened issue [#1](https://github.com//imshivamgupta/hopequre-template/issues/1) in [imshivamgupta/hopequre-template](https://github.com//imshivamgupta/hopequre-template)
-<!--END_SECTION:activity-->
-<!--
-**imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+   <!--END_SECTION:activity-->
+   <!--
+   **imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -19,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+  -->
