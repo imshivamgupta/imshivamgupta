@@ -10,6 +10,9 @@
 
 1. ❗️ Opened issue [#1](https://github.com//imshivamgupta/hopequre-template/issues/1) in [imshivamgupta/hopequre-template](https://github.com//imshivamgupta/hopequre-template)
    <!--END_SECTION:activity-->
+
+[![HitCount](http://hits.dwyl.com/imshivamgupta/hopequre-template.svg)](http://hits.dwyl.com/imshivamgupta/hopequre-template)
+
    <!--
    **imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
