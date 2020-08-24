@@ -1,8 +1,11 @@
-### नमस्ते 🙏 भारत
+### नमस्ते 🙏 I am Shivam Gupta 😎
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imshivamgupta_)
 [![Connect on LinkedIn](https://img.shields.io/badge/--linkedin?label=LinkedIn&logo=LinkedIn&style=social)](https://www.linkedin.com/in/imshivamgupta1)
 [![](https://img.shields.io/badge/Gmail-shivamg8797%40gmail.com-red?logo=Gmail&logoColor=Red&labelColor=black)](mailto:shivamg8797@gmail.com)
+
+[![HitCount](http://hits.dwyl.com/imshivamgupta/hopequre-template.svg)](http://
+hits.dwyl.com/imshivamgupta/hopequre-template)
 
 ![Introduction](https://github.com/imshivamgupta/imshivamgupta/blob/master/assets/intro.png?raw=true)
 
@@ -10,8 +13,6 @@
 
 1. ❗️ Opened issue [#1](https://github.com//imshivamgupta/hopequre-template/issues/1) in [imshivamgupta/hopequre-template](https://github.com//imshivamgupta/hopequre-template)
    <!--END_SECTION:activity-->
-
-[![HitCount](http://hits.dwyl.com/imshivamgupta/hopequre-template.svg)](http://hits.dwyl.com/imshivamgupta/hopequre-template)
 
    <!--
    **imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
