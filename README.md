@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Twitter URL](https://img.shields.io/twitter/url?style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2Fimshivamgupta_)
+
 <!--START_SECTION:activity-->
 <!--
 **imshivamgupta/imshivamgupta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
