@@ -2,7 +2,7 @@
 
 [![Follow on Twitter](https://img.shields.io/badge/--twitter?label=Twitter&logo=Twitter&style=social)](https://twitter.com/imshivamgupta_)
 
-![Introduction](https://github.com/[imshivamgupta]/[imshivamgupta]/blob/[master]/assets/carbon.svg?raw=true)
+![Introduction](https://github.com/imshivamgupta/imshivamgupta/blob/master/assets/carbon.svg?raw=true)
 
 <!--START_SECTION:activity-->
 
