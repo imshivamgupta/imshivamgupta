@@ -18,5 +18,5 @@
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#1](https://github.com//imshivamgupta/hopequre-template/issues/1) in [imshivamgupta/hopequre-template](https://github.com//imshivamgupta/hopequre-template)
+1. 💪 Opened PR [#12](https://github.com//Ileriayo/markdown-badges/pull/12) in [Ileriayo/markdown-badges](https://github.com//Ileriayo/markdown-badges)
    <!--END_SECTION:activity-->
