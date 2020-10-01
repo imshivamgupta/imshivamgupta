@@ -18,5 +18,5 @@
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#24](https://github.com/Ileriayo/markdown-badges/pull/24) in [Ileriayo/markdown-badges](https://github.com/Ileriayo/markdown-badges)
+1. 🗣 Commented on [#5](https://github.com/Jain-Sanchit/LiveCoronaNumbers/issues/5) in [Jain-Sanchit/LiveCoronaNumbers](https://github.com/Jain-Sanchit/LiveCoronaNumbers)
    <!--END_SECTION:activity-->
