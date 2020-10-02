@@ -18,5 +18,5 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#5](https://github.com/Jain-Sanchit/LiveCoronaNumbers/issues/5) in [Jain-Sanchit/LiveCoronaNumbers](https://github.com/Jain-Sanchit/LiveCoronaNumbers)
+1. ❌ Closed PR [#289](https://github.com/amohata007/Hacktoberfest/pull/289) in [amohata007/Hacktoberfest](https://github.com/amohata007/Hacktoberfest)
    <!--END_SECTION:activity-->
