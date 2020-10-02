@@ -18,5 +18,5 @@
 
 <!--START_SECTION:activity-->
 
-1. ❌ Closed PR [#289](https://github.com/amohata007/Hacktoberfest/pull/289) in [amohata007/Hacktoberfest](https://github.com/amohata007/Hacktoberfest)
+1. 💪 Opened PR [#8](https://github.com/Jain-Sanchit/LiveCoronaNumbers/pull/8) in [Jain-Sanchit/LiveCoronaNumbers](https://github.com/Jain-Sanchit/LiveCoronaNumbers)
    <!--END_SECTION:activity-->
