@@ -18,5 +18,5 @@
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#8](https://github.com/Jain-Sanchit/LiveCoronaNumbers/issues/8) in [Jain-Sanchit/LiveCoronaNumbers](https://github.com/Jain-Sanchit/LiveCoronaNumbers)
+1. 💪 Opened PR [#2](https://github.com/zatch3301/RollTheDice/pull/2) in [zatch3301/RollTheDice](https://github.com/zatch3301/RollTheDice)
    <!--END_SECTION:activity-->
